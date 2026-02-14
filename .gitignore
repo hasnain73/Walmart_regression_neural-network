@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+walmart_nn_env/
+venv/
+env/
+ENV/
+
+# Data files
+*.csv
+Walmart.csv
+
+# Model files (uncomment to not track trained models)
+# models/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Plots
+*.png
+*.jpg
+*.jpeg
+
+# Gradio
+flagged/
